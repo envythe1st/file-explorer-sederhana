@@ -1,0 +1,75 @@
+.sidebar {
+
+    width: 260px;
+
+    background: linear-gradient(180deg,
+            #ffffff,
+            #f7f9fc);
+
+    border-right: 1px solid #e5e7eb;
+
+    padding: 20px;
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.sidebar h3 {
+
+    font-size: 15px;
+
+    font-weight: 700;
+
+    color: #475569;
+
+    margin-bottom: 18px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+}
+
+.drive-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+    padding: 12px 14px;
+
+    border-radius: 12px;
+
+    cursor: pointer;
+
+    transition: all .25s ease;
+
+    margin-bottom: 6px;
+
+    color: #334155;
+
+    font-weight: 500;
+
+}
+
+.drive-item:hover {
+
+    background: #2563eb;
+
+    color: white;
+
+    transform: translateX(6px);
+
+    box-shadow: 0 8px 20px rgba(37, 99, 235, .25);
+
+}
+
+.drive-item svg {
+
+    flex-shrink: 0;
+
+}

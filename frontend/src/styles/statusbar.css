@@ -1,0 +1,17 @@
+.status-bar {
+
+    height: 32px;
+
+    display: flex;
+
+    align-items: center;
+
+    padding: 0 15px;
+
+    background: #fafafa;
+
+    border-top: 1px solid #ddd;
+
+    font-size: 13px;
+
+}
