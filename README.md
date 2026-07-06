@@ -298,12 +298,11 @@ GET /api/bfs
 
 # Anggota Kelompok
 
-Kelompok 18
+Kelompok 15
 
-- Nama Anggota 1
-- Nama Anggota 2
-- Nama Anggota 3
-- Nama Anggota 4
+- Muhammad Raif Tito Mustaurid
+- Maria Elbertha Octaviani
+- Muhammad Raffly Al-Ghifari
 
 ---
 
